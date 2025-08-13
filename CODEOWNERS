@@ -1,0 +1,12 @@
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/action.yaml @matteovivona
+/action.yml @matteovivona
+/Dockerfile @matteovivona
+/*.dockerfile @matteovivona
+/Dockerfile.* @matteovivona
+/.github/workflows/*.yaml @matteovivona
+/.github/workflows/*.yml @matteovivona
+/**/*.dockerfile @matteovivona
+/**/Dockerfile.* @matteovivona
+/**/.github/workflows/*.yaml @matteovivona
+/**/.github/workflows/*.yml @matteovivona
